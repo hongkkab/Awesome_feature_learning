@@ -18,7 +18,7 @@ A curated list of papers & ressources linked to feature learning.
 
 - [GO Loss: A Gaussian Distribution-Based Orthogonal Decomposition Loss for Classification ](http://downloads.hindawi.com/journals/complexity/2019/9206053.pdf)(Hindawi 2019)
 
-- Rethinking Softmax Cross-Entropy Loss for Adversarial Robustness (https://arxiv.org/pdf/1905.10626.pdf)  (ICML 2020)
+- Rethinking Softmax Cross-Entropy Loss for Adversarial Robustness(https://arxiv.org/pdf/1905.10626.pdf)  (ICML 2020)
 
 Angular
 - A-softmax loss(ICML 2016)
