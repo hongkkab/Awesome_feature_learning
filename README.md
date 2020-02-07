@@ -16,9 +16,9 @@ A curated list of papers & ressources linked to feature learning.
 
 - Max-Mahalanobis Linear Discriminant Analysis Networks(ICML 2018)[[pdf](https://arxiv.org/pdf/1802.09308.pdf)]
 
-- GO loss(2019)
+- GO Loss: A Gaussian Distribution-Based Orthogonal Decomposition Loss for Classification (Hindawi 2019)[[pdf](http://downloads.hindawi.com/journals/complexity/2019/9206053.pdf)]
 
-- MMC loss(ICML 2020)
+- Rethinking Softmax Cross-Entropy Loss for Adversarial Robustness(ICML 2020)[[pdf](https://arxiv.org/pdf/1905.10626.pdf)]
 
 Angular
 - A-softmax loss(ICML 2016)
