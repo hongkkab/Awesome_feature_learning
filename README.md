@@ -11,8 +11,8 @@ A curated list of papers & ressources linked to feature learning.
 #### 2014
 - Contrastive loss(NeurIPS 2014)
 #### 2015
-- "[Triplet loss]"
-: [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf) (CVPR 2015)
+- [Triplet loss]
+[FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf) (CVPR 2015)
 #### 2016
 - [A Discriminative Feature Learning Approach for Deep Face RecognitionCenter loss](https://ydwen.github.io/papers/WenECCV16.pdf)
 (ECCV 2016)
