@@ -2,18 +2,19 @@
 A curated list of papers & ressources linked to feature learning.
 
 
-# Contents
+## Contents
 
 
 
-# Papers 
+## Papers 
 
 Contrastive loss(NeurIPS 2014)
 Triplet loss(CVPR 2015)
 Center loss(ECCV 2016)
 
-Gaussian mixture loss(CVPR 2018)
-MMLDA loss(ICML 2018)[pdf]https://arxiv.org/pdf/1802.09308.pdf
+Rethinking Feature Distribution for Loss Functions in Image Classification(CVPR 2018)[pdf](https://arxiv.org/pdf/1803.02988.pdf)[code](https://github.com/WeitaoVan/L-GM-loss]
+
+Max-Mahalanobis Linear Discriminant Analysis Networks(ICML 2018)[pdf](https://arxiv.org/pdf/1802.09308.pdf)
 
 GO loss(2019)
 
