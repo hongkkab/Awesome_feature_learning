@@ -36,4 +36,5 @@ A curated list of papers & ressources linked to feature learning.
 - [Ring loss: Convex Feature Normalization for Face Recognition](https://arxiv.org/pdf/1803.00130.pdf)(CVPR 2018)
 - [CosFace: Large Margin Cosine Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.09414.pdf)(CVPR 2018)
 
+#### 2019
 - [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.07698.pdf) (CVPR 2019)
