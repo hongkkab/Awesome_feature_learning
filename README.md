@@ -24,11 +24,16 @@ A curated list of papers & ressources linked to feature learning.
 #### 2020
 - [Rethinking Softmax Cross-Entropy Loss for Adversarial Robustness](https://arxiv.org/pdf/1905.10626.pdf)(ICML 2020)
 
-Angular
-- A-softmax loss(ICML 2016)
-- Sphere Face(CVPR 2017)
+## Angular
 
-- Ring loss(CVPR 2018)
-- CosFace(CVPR 2018)
+#### 2016
+- [Large-Margin Softmax Loss for Convolutional Neural Networks](https://arxiv.org/pdf/1612.02295.pdf)(ICML 2016)
 
-- ArcFace(CVPR 2019)
+#### 2017
+- [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/pdf/1704.08063.pdf)(CVPR 2017)
+
+#### 2018
+- [Ring loss: Convex Feature Normalization for Face Recognition](https://arxiv.org/pdf/1803.00130.pdf)(CVPR 2018)
+- [CosFace: Large Margin Cosine Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.09414.pdf)(CVPR 2018)
+
+- [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.07698.pdf) (CVPR 2019)
