@@ -1,4 +1,4 @@
-# Awesome_feature_learning
+# Awesome_Robust_feature_learning
 A curated list of papers & ressources linked to feature learning.
 
 
